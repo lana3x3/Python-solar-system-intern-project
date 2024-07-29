@@ -19,3 +19,5 @@
 * ﻿﻿Create detailed visualizations to communicate key insights, such as planetary comparisons, orbital paths, and celestial event timelines.
 * ﻿﻿Use advanced visualization techniques like heatmaps, 3D plots .
 * ﻿﻿Prepare a comprehensive report summarizing the entire data analysis process, key findings, and visualizations.
+
+Link to the project : https://www.kaggle.com/code/lanamedea/python-solar-system-intern-nasa
